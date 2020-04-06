@@ -29,6 +29,6 @@ main:
 first_line:
     .asciz  "Raspberry Pi time\n"
 second_line:
-    .asciz  "This will be a unique time\n"
+    .asciz  "Otta be a nifty quarter\n"
 third_line:
     .asciz  "Please wish me good luck\n"
