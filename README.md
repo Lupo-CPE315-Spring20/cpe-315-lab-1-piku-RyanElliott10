@@ -1,5 +1,13 @@
 # CPE 315 Lab 1 -- Piku
 
+## Ryan Elliott
+### Lab Status
+Complete
+### Compilation Instructions
+`gcc -o piku piku.s`
+### Issues Along the Way
+Once I realized I was trying to compile on an Intel processor, all was well.
+
 ## Things to include in your README
 
 * Your name. Indicate if you go by a nickname.
