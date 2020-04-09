@@ -5,6 +5,7 @@
 Complete
 ### Compilation Instructions
 `gcc -o piku piku.s`
+`./piku`
 ### Issues Along the Way
 Once I realized I was trying to compile on an Intel processor, all was well.
 
